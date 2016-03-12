@@ -1,3 +1,4 @@
+# Please ensure that household_power_consumption.txt is in the working directory
 fileConnection <- file("household_power_consumption.txt")
 
 # setting standard locale, because my system locale is russian1251 and after converting dates i get days of week in
